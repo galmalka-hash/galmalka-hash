@@ -16,4 +16,4 @@
 - In Progress...
 
 ## Let's Connect
-- [LinkedIn](#https://www.linkedin.com/in/galmalka122)
+- [LinkedIn](https://www.linkedin.com/in/galmalka122)
